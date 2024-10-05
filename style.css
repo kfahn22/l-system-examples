@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: rgb(241,13,229);
+  font-size: 1.1em;
+  
+}
+canvas {
+  display: block;
+}
+
+dropdown {
+  background-color: yellow;
+}
