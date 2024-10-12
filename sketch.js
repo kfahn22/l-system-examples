@@ -21,6 +21,7 @@ let exampleOptions = [
   "ADH231a with Supershape Curve",
   "ADH256a with Superellipse",
   "ADH256a with Kiss Curve",
+  "Board with Lissajous",
   "Box with Ceva",
   "Crystal with Maltese Cross",
   "Crystal with Supershape",

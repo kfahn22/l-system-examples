@@ -99,6 +99,9 @@ class ShapeUI {
       case "Line":
         this.shape.showLine();
         break;
+      case "Lissajous":
+        this.shape.lissajous();
+        break;
       case "Quadrifolium":
         this.shape.quadrifolium();
         break;
